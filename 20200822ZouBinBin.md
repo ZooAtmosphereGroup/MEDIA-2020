@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinBin
 ### 描述: 
 ### 提交时间: 20200822
-        ##### size: 0.42 M, 20200822 梅花鹿  2.jpg
+##### size: 0.42 M, 20200822 梅花鹿  2.jpg
 ![20200822 梅花鹿  2.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20200822ZouBinBin/20200822 梅花鹿  2.jpg)
 
 ##### size: 0.43 M, 20200822 梅花鹿  3.jpg

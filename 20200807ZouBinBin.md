@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinBin
 ### 描述: 
 ### 提交时间: 20200807
-        ##### size: 0.22 M, 20200806 不知名城市水鸟.jpg
+##### size: 0.22 M, 20200806 不知名城市水鸟.jpg
 ![20200806 不知名城市水鸟.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20200807ZouBinBin/20200806 不知名城市水鸟.jpg)
 
 ##### size: 0.23 M, 20200806 孔雀  2.jpg

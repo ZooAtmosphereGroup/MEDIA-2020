@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinBin
 ### 描述: 
 ### 提交时间: 20201221
-        ##### size: 0.2 M, FDSCF6087.jpg
+##### size: 0.2 M, FDSCF6087.jpg
 ![FDSCF6087.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20201221ZouBinBin/FDSCF6087.jpg)
 
 ##### size: 0.2 M, FDSCF6089.jpg

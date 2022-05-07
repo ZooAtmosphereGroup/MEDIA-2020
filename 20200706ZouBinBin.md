@@ -4,7 +4,7 @@ layout: default
 ### 摄影: ZouBinBin
 ### 描述: 
 ### 提交时间: 20200706
-        ##### size: 0.07 M, 20200707 彩色高头.jpg
+##### size: 0.07 M, 20200707 彩色高头.jpg
 ![20200707 彩色高头.jpg](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20200706ZouBinBin/20200707 彩色高头.jpg)
 
 ##### size: 0.07 M, 20200707 彩色高头2 .jpg
