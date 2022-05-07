@@ -2,7 +2,7 @@
 layout: default
 ---
 ### 摄影: ZouBinBin
-### 描述: 立夏 四月十三 2020.05.05 周四 雨
+### 描述: 
 ### 提交时间: 20200505
         ##### size: 0.15 M, DSCF0633.JPG
 ![DSCF0633.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20200505ZouBinBin/DSCF0633.JPG)

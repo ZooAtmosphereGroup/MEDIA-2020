@@ -2,7 +2,7 @@
 layout: default
 ---
 ### 摄影: ZouBinBin
-### 描述: 芒种 闰四月十四 2020.06.05 周五
+### 描述: 
 ### 提交时间: 20200605
         ##### size: 0.14 M, DSCF4381.JPG
 ![DSCF4381.JPG](https://zooatmospheregroup.github.io/MEDIA-2022//images/mix/20200605ZouBinBin/DSCF4381.JPG)
